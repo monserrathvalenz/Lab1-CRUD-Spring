@@ -1,0 +1,6 @@
+wallet/
+backend/wallet/
+target/
+node_modules/
+.DS_Store
+*.log
